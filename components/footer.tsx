@@ -16,14 +16,14 @@ export function Footer() {
             <Mail className="w-6 h-6 text-gold" />
             <div>
               <p className="text-sm opacity-75">Email</p>
-              <p className="font-semibold">info@matrixcraft.com</p>
+              <p className="font-semibold">info@moudgil.net.in</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
             <MapPin className="w-6 h-6 text-gold" />
             <div>
               <p className="text-sm opacity-75">Address</p>
-              <p className="font-semibold">Pathankot, Punjab, India</p>
+              <p className="font-semibold"> Punjab, India</p>
             </div>
           </div>
         </div>
